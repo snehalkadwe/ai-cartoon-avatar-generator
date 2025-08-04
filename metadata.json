@@ -1,0 +1,5 @@
+{
+  "name": "AI Cartoon Avatar Generator",
+  "description": "Generate personalized cartoon avatars from simple text descriptions. Customize your avatar with accessories and background colors, then share it with the world.",
+  "requestFramePermissions": []
+}
