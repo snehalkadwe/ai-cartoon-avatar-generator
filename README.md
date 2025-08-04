@@ -16,3 +16,5 @@ This contains everything you need to run your app locally.
 # AI Cartoon Avatar Generator
 
 ![Demo](public/ai-cartoon-demo.gif)
+
+![Demo](public/ai-cartoon-demo-2.gif)
